@@ -1,0 +1,15 @@
+{
+  "name": "nova-ai-pro-final",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.1"
+  },
+  "devDependencies": {
+    "vercel": "^41.6.2"
+  }
+}
